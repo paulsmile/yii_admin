@@ -1,0 +1,26 @@
+#login{
+    width:350px;
+    margin:10% auto;
+    border:1px solid #ccc;
+}
+#login h2{
+    height:40px;
+    line-height: 40px;
+    background: url(../../images/admin/login_header.png) repeat-x;
+    font-size:14px;
+    letter-spacing:1px;
+    text-indent:10px;
+    margin:0;
+    padding:0;
+}
+#login .wrap{
+    margin:0 0 0 32px;
+}
+#login input{
+    width:270px;
+}
+#login .login_button{
+    text-align:center;
+    margin:10px 0;
+}
+
